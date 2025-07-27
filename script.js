@@ -1,5 +1,5 @@
 // Typing Animation
-const text = "Hi, I'm Shaniya Sheriff";
+const text = "Hi, I'm Shaniya U";
 let index = 0;
 function typeEffect() {
   if (index < text.length) {
